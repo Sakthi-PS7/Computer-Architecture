@@ -1,0 +1,48 @@
+Flat profile:
+
+Each sample counts as 0.01 seconds.
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls  ns/call  ns/call  name    
+ 29.45      0.51     0.51                             Proc_1
+ 25.98      0.96     0.45 55550000     8.14     8.14  Proc_7
+ 18.48      1.29     0.32 55550000     5.79     5.79  Proc_6
+ 12.13      1.50     0.21                             Proc_8
+  8.08      1.64     0.14                             Func_2
+  5.20      1.73     0.09                             Func_1
+  1.15      1.75     0.02                             frame_dummy
+
+			Call graph
+
+
+granularity: each sample hit covers 2 byte(s) for 0.57% of 1.75 seconds
+
+index % time    self  children    called     name
+                                                 <spontaneous>
+[1]     73.6    0.51    0.77                 Proc_1 [1]
+                0.45    0.00 55550000/55550000     Proc_7 [2]
+                0.32    0.00 55550000/55550000     Proc_6 [3]
+-----------------------------------------------
+                0.45    0.00 55550000/55550000     Proc_1 [1]
+[2]     25.9    0.45    0.00 55550000         Proc_7 [2]
+-----------------------------------------------
+                0.32    0.00 55550000/55550000     Proc_1 [1]
+[3]     18.4    0.32    0.00 55550000         Proc_6 [3]
+-----------------------------------------------
+                                                 <spontaneous>
+[4]     12.1    0.21    0.00                 Proc_8 [4]
+-----------------------------------------------
+                                                 <spontaneous>
+[5]      8.0    0.14    0.00                 Func_2 [5]
+-----------------------------------------------
+                                                 <spontaneous>
+[6]      5.2    0.09    0.00                 Func_1 [6]
+-----------------------------------------------
+                                                 <spontaneous>
+[7]      1.1    0.02    0.00                 frame_dummy [7]
+-----------------------------------------------
+
+Index by function name
+
+   [6] Func_1                  [3] Proc_6                  [7] frame_dummy
+   [5] Func_2                  [2] Proc_7
+   [1] Proc_1                  [4] Proc_8

@@ -1,0 +1,6 @@
+file,best_iteration,dhrystones_per_sec
+run_22a_O0_clang.log,1,9881423
+run_22a_O1_clang.log,1,22222222
+run_22a_O2_clang.log,8,33967392
+run_22a_O3_clang.log,6,33783784
+run_22a_clang.log,4,9900990

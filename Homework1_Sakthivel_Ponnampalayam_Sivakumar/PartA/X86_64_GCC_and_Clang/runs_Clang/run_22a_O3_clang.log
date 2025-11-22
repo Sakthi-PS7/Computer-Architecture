@@ -1,0 +1,140 @@
+---------Iteration No: 1-------
+
+Dhrystone Benchmark, Version C, Version 2.2a
+Program compiled without 'register' attribute
+Using times(), HZ=100
+
+Trying 50000 runs: too few
+Trying 500000 runs: too few
+Trying 5000000 runs: too few
+Trying 50000000 runs: too few
+Trying 500000000 runs: 
+Microseconds for one run through Dhrystone:       0.03 
+Dhrystones per Second:                        32175032 
+
+---------Iteration No: 2-------
+
+Dhrystone Benchmark, Version C, Version 2.2a
+Program compiled without 'register' attribute
+Using times(), HZ=100
+
+Trying 50000 runs: too few
+Trying 500000 runs: too few
+Trying 5000000 runs: too few
+Trying 50000000 runs: too few
+Trying 500000000 runs: 
+Microseconds for one run through Dhrystone:       0.03 
+Dhrystones per Second:                        31847134 
+
+---------Iteration No: 3-------
+
+Dhrystone Benchmark, Version C, Version 2.2a
+Program compiled without 'register' attribute
+Using times(), HZ=100
+
+Trying 50000 runs: too few
+Trying 500000 runs: too few
+Trying 5000000 runs: too few
+Trying 50000000 runs: too few
+Trying 500000000 runs: 
+Microseconds for one run through Dhrystone:       0.03 
+Dhrystones per Second:                        32679738 
+
+---------Iteration No: 4-------
+
+Dhrystone Benchmark, Version C, Version 2.2a
+Program compiled without 'register' attribute
+Using times(), HZ=100
+
+Trying 50000 runs: too few
+Trying 500000 runs: too few
+Trying 5000000 runs: too few
+Trying 50000000 runs: too few
+Trying 500000000 runs: 
+Microseconds for one run through Dhrystone:       0.03 
+Dhrystones per Second:                        31867430 
+
+---------Iteration No: 5-------
+
+Dhrystone Benchmark, Version C, Version 2.2a
+Program compiled without 'register' attribute
+Using times(), HZ=100
+
+Trying 50000 runs: too few
+Trying 500000 runs: too few
+Trying 5000000 runs: too few
+Trying 50000000 runs: too few
+Trying 500000000 runs: 
+Microseconds for one run through Dhrystone:       0.03 
+Dhrystones per Second:                        31928480 
+
+---------Iteration No: 6-------
+
+Dhrystone Benchmark, Version C, Version 2.2a
+Program compiled without 'register' attribute
+Using times(), HZ=100
+
+Trying 50000 runs: too few
+Trying 500000 runs: too few
+Trying 5000000 runs: too few
+Trying 50000000 runs: too few
+Trying 500000000 runs: 
+Microseconds for one run through Dhrystone:       0.03 
+Dhrystones per Second:                        33783784 
+
+---------Iteration No: 7-------
+
+Dhrystone Benchmark, Version C, Version 2.2a
+Program compiled without 'register' attribute
+Using times(), HZ=100
+
+Trying 50000 runs: too few
+Trying 500000 runs: too few
+Trying 5000000 runs: too few
+Trying 50000000 runs: too few
+Trying 500000000 runs: 
+Microseconds for one run through Dhrystone:       0.03 
+Dhrystones per Second:                        32133676 
+
+---------Iteration No: 8-------
+
+Dhrystone Benchmark, Version C, Version 2.2a
+Program compiled without 'register' attribute
+Using times(), HZ=100
+
+Trying 50000 runs: too few
+Trying 500000 runs: too few
+Trying 5000000 runs: too few
+Trying 50000000 runs: too few
+Trying 500000000 runs: 
+Microseconds for one run through Dhrystone:       0.03 
+Dhrystones per Second:                        32154340 
+
+---------Iteration No: 9-------
+
+Dhrystone Benchmark, Version C, Version 2.2a
+Program compiled without 'register' attribute
+Using times(), HZ=100
+
+Trying 50000 runs: too few
+Trying 500000 runs: too few
+Trying 5000000 runs: too few
+Trying 50000000 runs: too few
+Trying 500000000 runs: 
+Microseconds for one run through Dhrystone:       0.03 
+Dhrystones per Second:                        32175032 
+
+---------Iteration No: 10-------
+
+Dhrystone Benchmark, Version C, Version 2.2a
+Program compiled without 'register' attribute
+Using times(), HZ=100
+
+Trying 50000 runs: too few
+Trying 500000 runs: too few
+Trying 5000000 runs: too few
+Trying 50000000 runs: too few
+Trying 500000000 runs: 
+Microseconds for one run through Dhrystone:       0.03 
+Dhrystones per Second:                        32154340 
+

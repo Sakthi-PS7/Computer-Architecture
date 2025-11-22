@@ -1,0 +1,130 @@
+---------Iteration No: 1-------
+
+Dhrystone Benchmark, Version C, Version 2.2a
+Program compiled without 'register' attribute
+Using times(), HZ=100
+
+Trying 50000 runs: too few
+Trying 500000 runs: too few
+Trying 5000000 runs: too few
+Trying 50000000 runs: 
+Microseconds for one run through Dhrystone:       0.10 
+Dhrystones per Second:                         9881423 
+
+---------Iteration No: 2-------
+
+Dhrystone Benchmark, Version C, Version 2.2a
+Program compiled without 'register' attribute
+Using times(), HZ=100
+
+Trying 50000 runs: too few
+Trying 500000 runs: too few
+Trying 5000000 runs: too few
+Trying 50000000 runs: 
+Microseconds for one run through Dhrystone:       0.10 
+Dhrystones per Second:                         9861933 
+
+---------Iteration No: 3-------
+
+Dhrystone Benchmark, Version C, Version 2.2a
+Program compiled without 'register' attribute
+Using times(), HZ=100
+
+Trying 50000 runs: too few
+Trying 500000 runs: too few
+Trying 5000000 runs: too few
+Trying 50000000 runs: 
+Microseconds for one run through Dhrystone:       0.10 
+Dhrystones per Second:                         9803922 
+
+---------Iteration No: 4-------
+
+Dhrystone Benchmark, Version C, Version 2.2a
+Program compiled without 'register' attribute
+Using times(), HZ=100
+
+Trying 50000 runs: too few
+Trying 500000 runs: too few
+Trying 5000000 runs: too few
+Trying 50000000 runs: 
+Microseconds for one run through Dhrystone:       0.10 
+Dhrystones per Second:                         9900990 
+
+---------Iteration No: 5-------
+
+Dhrystone Benchmark, Version C, Version 2.2a
+Program compiled without 'register' attribute
+Using times(), HZ=100
+
+Trying 50000 runs: too few
+Trying 500000 runs: too few
+Trying 5000000 runs: too few
+Trying 50000000 runs: 
+Microseconds for one run through Dhrystone:       0.10 
+Dhrystones per Second:                         9823183 
+
+---------Iteration No: 6-------
+
+Dhrystone Benchmark, Version C, Version 2.2a
+Program compiled without 'register' attribute
+Using times(), HZ=100
+
+Trying 50000 runs: too few
+Trying 500000 runs: too few
+Trying 5000000 runs: too few
+Trying 50000000 runs: 
+Microseconds for one run through Dhrystone:       0.10 
+Dhrystones per Second:                         9881423 
+
+---------Iteration No: 7-------
+
+Dhrystone Benchmark, Version C, Version 2.2a
+Program compiled without 'register' attribute
+Using times(), HZ=100
+
+Trying 50000 runs: too few
+Trying 500000 runs: too few
+Trying 5000000 runs: too few
+Trying 50000000 runs: 
+Microseconds for one run through Dhrystone:       0.10 
+Dhrystones per Second:                         9842520 
+
+---------Iteration No: 8-------
+
+Dhrystone Benchmark, Version C, Version 2.2a
+Program compiled without 'register' attribute
+Using times(), HZ=100
+
+Trying 50000 runs: too few
+Trying 500000 runs: too few
+Trying 5000000 runs: too few
+Trying 50000000 runs: 
+Microseconds for one run through Dhrystone:       0.10 
+Dhrystones per Second:                         9881423 
+
+---------Iteration No: 9-------
+
+Dhrystone Benchmark, Version C, Version 2.2a
+Program compiled without 'register' attribute
+Using times(), HZ=100
+
+Trying 50000 runs: too few
+Trying 500000 runs: too few
+Trying 5000000 runs: too few
+Trying 50000000 runs: 
+Microseconds for one run through Dhrystone:       0.10 
+Dhrystones per Second:                         9823183 
+
+---------Iteration No: 10-------
+
+Dhrystone Benchmark, Version C, Version 2.2a
+Program compiled without 'register' attribute
+Using times(), HZ=100
+
+Trying 50000 runs: too few
+Trying 500000 runs: too few
+Trying 5000000 runs: too few
+Trying 50000000 runs: 
+Microseconds for one run through Dhrystone:       0.10 
+Dhrystones per Second:                         9842520 
+
