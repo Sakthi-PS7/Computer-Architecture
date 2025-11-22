@@ -1,0 +1,18 @@
+# Sample Dinero IV trace file
+# Format: <access_type> <hex_address>
+# 0 = read data, 1 = write data, 2 = instruction fetch
+2 0x00400000
+2 0x00400004
+0 0x10010000
+2 0x00400008
+1 0x10010004
+2 0x0040000c
+0 0x10010008
+2 0x00400010
+2 0x00400014
+1 0x1001000c
+2 0x00400018
+0 0x10010010
+2 0x0040001c
+2 0x00400020
+0 0x10010014

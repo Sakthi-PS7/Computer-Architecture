@@ -1,0 +1,22 @@
+   Load Miss Rate:      0.00%
+  Store Miss Rate:       nan%
+  Total Miss Rate:      0.00%
+   Load Miss Rate:     32.97%
+  Store Miss Rate:       nan%
+  Total Miss Rate:     32.97%
+L1 Instruction Cache:
+   Load Miss Rate:      0.01%
+  Store Miss Rate:       nan%
+  Total Miss Rate:      0.01%
+L1 Data Cache:
+   Load Miss Rate:     73.57%
+  Store Miss Rate:     99.11%
+  Total Miss Rate:     82.03%
+L2 Unified Cache:
+   Load Miss Rate:     83.20%
+  Store Miss Rate:     24.97%
+  Total Miss Rate:     59.91%
+L3 Unified Cache:
+   Load Miss Rate:      0.27%
+  Store Miss Rate:    100.00%
+  Total Miss Rate:     16.89%
